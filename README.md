@@ -1,4 +1,4 @@
-Project Overview
+Project Overview<br>
 This Hospital Management System is a console-based application developed in Java. It efficiently manages various aspects of a hospital, including doctors, nurses, departments, and patient records. The project utilizes different data structures to handle specific functionalities, ensuring optimal performance and ease of use.
 
 Features
