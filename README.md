@@ -42,14 +42,19 @@ FAQ.java: Manages frequently asked questions.
 
 How It Works<br>
 Hospital Information Management<br>
-Doctors and Nurses: The application stores the number of doctors and nurses, their IDs, and names using linked lists. Each doctor is assigned to a specific department and floor.
-Departments: Each department is linked to a floor and has assigned doctors.
-Patient Management
-Patient Queue: Patients are added to a queue and assigned to doctors. Once a doctor attends to a patient, the patient is removed from the queue.
-Patient Records: Detailed records of patients, including their ID and name, are maintained using linked lists.
-Ambulance Management
-Ambulance Stack: The availability of ambulances is managed using a stack. When an ambulance is needed, it is popped from the stack, and when it returns, it is pushed back onto the stack.
-Frequently Asked Questions
+Doctors and Nurses: <br>
+The application stores the number of doctors and nurses, their IDs, and names using linked lists. Each doctor is assigned to a specific department and floor.
+Departments: <br>
+Each department is linked to a floor and has assigned doctors.
+Patient Management<br>
+Patient Queue: <br> 
+Patients are added to a queue and assigned to doctors. Once a doctor attends to a patient, the patient is removed from the queue.
+Patient Records: <br>
+Detailed records of patients, including their ID and name, are maintained using linked lists.
+Ambulance Management<br>
+Ambulance Stack: <br>
+The availability of ambulances is managed using a stack. When an ambulance is needed, it is popped from the stack, and when it returns, it is pushed back onto the stack.
+Frequently Asked Questions<br>
 The system includes a section for frequently asked questions to help users navigate and understand the functionalities better.
 
 
